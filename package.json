@@ -1,0 +1,15 @@
+{
+  "name": "typescript",
+  "version": "0.0.1",
+  "description": "Learning TypeScript - Code Examples",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnxmnz/Learning-TypeScript.git"
+  },
+  "author": "MinJi Kim",
+  "license": "MIT",
+  "homepage": "https://github.com/mnxmnz/Learning-TypeScript#readme",
+  "dependencies": {
+    "typescript": "^5.2.2"
+  }
+}
